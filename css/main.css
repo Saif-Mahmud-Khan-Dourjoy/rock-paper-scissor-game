@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+
+.box:hover{
+    box-shadow: 5px 10px 20px rgba(0, 0,0, 0.5);
+}
+
+.win{
+    border: 5px solid #2f6dc7;
+}
+
+.loss{
+    border: 5px solid #f04200;
+}
+
+.draw{
+    border: 5px solid #c758d0;
+}
